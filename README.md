@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AshwidaNethmina
-- 👀 I’m interested in <b>Game Development</b> and Graphic Designing
+- 👀 I’m interested in <b>Game Development</b> and <b>Graphic Designing</b
+- >
 - 🌱 I’m currently learning OOP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
