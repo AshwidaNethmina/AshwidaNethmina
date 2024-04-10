@@ -21,7 +21,7 @@ I'm always open to collaboration and discussions. Feel free to reach out to me:
 
 - 📧 Email: [ashwidanethmina@gmail.com](mailto:ashwidanethmina@gmail.com)
 - 💼 LinkedIn: [@AshwidaFernando](https://www.linkedin.com/in/ashwida-fernando-b769571bb/)
-- ▶️ YouTube: [@Ash_TheAcrobat]([https://www.linkedin.com/in/ashwida-fernando-b769571bb/](https://youtube.com/@Ash_TheAcrobat?si=bAzFJvZVcc3SBbfw)
+- ▶️ YouTube: [@Ash_TheAcrobat](https://youtube.com/@Ash_TheAcrobat?si=bAzFJvZVcc3SBbfw)
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
