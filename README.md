@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashwidanethmina@gmail.com**
 
-- ⚡ Fun fact **I design 3D models in my free time.**
+- ⚡ Fun fact **I design 3D models in my free time. Check-out my CG Trader profile.** [CGTrader] (https://www.cgtrader.com/designers/ashwida)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +24,7 @@
 <a href="https://stackoverflow.com/users/13796406/ashwidanethmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashwidanethmina" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ashwida.fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashwida fernando" height="30" width="40" /></a>
 <a href="https://instagram.com/_ashwida_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashwida_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ash_theacrobat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ash_theacrobat" height="30" width="40" /></a>
+<a href="https://youtube.com/@Ash_TheAcrobat?si=bAzFJvZVcc3SBbfw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ash_theacrobat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
