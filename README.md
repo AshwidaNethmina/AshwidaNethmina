@@ -8,7 +8,7 @@ Hello there! 👋 I'm Ashwida Fernando, a passionate Computer Science student wi
 - 💻 Enthusiastic about Game Development.
 - 🤖 Fascinated by the realms of machine learning and AI, exploring its applications and advancements.
 - 🌱 Always eager to learn and explore new technologies.
--   3D modeling is my hobby.
+- 🎨 3D modeling is my hobby.
 - 📚 Constantly sharpening my skills and knowledge through projects and self-learning.
 
 
