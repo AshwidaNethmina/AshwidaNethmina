@@ -32,9 +32,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwidanethmina&show_icons=true&locale=en&layout=compact" alt="ashwidanethmina" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwidanethmina&show_icons=true&locale=en" alt="ashwidanethmina" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwidanethmina&" alt="ashwidanethmina" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwidanethmina&show_icons=true&locale=en" alt="ashwidanethmina" /></p>
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwidanethmina&theme=github_dark" alt="AshwidaFernando's GitHub Stats"/>
