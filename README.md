@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ashwidanethmina@gmail.com**
 
-- ⚡ Fun fact **I design 3D models in my free time. Check-out my CG Trader profile.** [CGTrader] (https://www.cgtrader.com/designers/ashwida)
+- ⚡ Fun fact **I design 3D models in my free time. Check-out my CG Trader profile.** [CGTrader](https://www.cgtrader.com/designers/ashwida)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
