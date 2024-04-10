@@ -1,45 +1,37 @@
-# About Me
+<h1 align="center">Hi 👋, I'm Ashwida Fernando</h1>
+<h3 align="center">a passionate Computer Science student with a keen interest in Game Development, UI designing, , Data Science, Machine Learning, Database Management and Artificial Intelligence. Welcome to my GitHub profile!</h3>
 
-Hello there! 👋 I'm Ashwida Fernando, a passionate Computer Science student with a keen interest in Game Development, UI designing, , Data Science, Machine Learning, Database Management and Artificial Intelligence. Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwidanethmina&label=Profile%20views&color=0e75b6&style=flat" alt="ashwidanethmina" /> </p>
 
-## About
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwidanethmina" alt="ashwidanethmina" /></a> </p>
 
-- 🎓 Currently pursuing a degree in Computer Science.
-- 💻 Enthusiastic about Game Development.
-- 🤖 Fascinated by the realms of machine learning and AI, exploring its applications and advancements.
-- 🌱 Always eager to learn and explore new technologies.
-- 🎨 3D modeling is my hobby.
-- 📚 Constantly sharpening my skills and knowledge through projects and self-learning.
+<p align="left"> <a href="https://twitter.com/ashwidanethmina" target="blank"><img src="https://img.shields.io/twitter/follow/ashwidanethmina?logo=twitter&style=for-the-badge" alt="ashwidanethmina" /></a> </p>
 
+- 🔭 I’m currently working on **Python based AI assistance**
 
+- 🌱 I’m currently learning **Machine Learning**
 
-Feel free to explore my repositories for more projects and contributions!
+- 🤝 I’m looking for help with **web application development**
 
-## Get in Touch
+- 📫 How to reach me **ashwidanethmina@gmail.com**
 
-I'm always open to collaboration and discussions. Feel free to reach out to me:
+- ⚡ Fun fact **I design 3D models in my free time.**
 
-- 📧 Email: [ashwidanethmina@gmail.com](mailto:ashwidanethmina@gmail.com)
-- 💼 LinkedIn: [@AshwidaFernando](https://www.linkedin.com/in/ashwida-fernando-b769571bb/)
-- ▶️ YouTube: [@Ash_TheAcrobat](https://youtube.com/@Ash_TheAcrobat?si=bAzFJvZVcc3SBbfw)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ashwidanethmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwidanethmina" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashwida fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwida fernando" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ashwidanethmina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashwidanethmina" height="30" width="40" /></a>
+<a href="https://fb.com/ashwida fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashwida fernando" height="30" width="40" /></a>
+<a href="https://instagram.com/_ashwida_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashwida_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ash_theacrobat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ash_theacrobat" height="30" width="40" /></a>
+</p>
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<div>
-    <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/ashwida-fernando-b769571bb/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwidanethmina&show_icons=true&locale=en&layout=compact" alt="ashwidanethmina" /></p>
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwidanethmina&theme=github_dark" alt="AshwidaFernando's GitHub Stats"/>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwidanethmina&show_icons=true&locale=en" alt="ashwidanethmina" /></p>
 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCN1DxJQvxh8y7it2qVlBU_Q?style=for-the-badge&logo=powershell&logoColor=white" alt="YouTube"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwidanethmina&" alt="ashwidanethmina" /></p>
