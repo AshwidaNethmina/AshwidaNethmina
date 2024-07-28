@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwida Fernando</h1>
-<h3 align="center">I'm a passionate Computer Science student with a keen interest in Game Development, UI designing, , Data Science, Machine Learning, Database Management and Artificial Intelligence. Welcome to my GitHub profile!</h3>
+<h3 align="center">I'm a passionate Computer Science student with a keen interest in Windows Form Application development, Game Development, UI designing, , Data Science, Machine Learning, Database Management and Artificial Intelligence. Welcome to my GitHub profile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwidanethmina&label=Profile%20views&color=0e75b6&style=flat" alt="ashwidanethmina" /> </p>
 
