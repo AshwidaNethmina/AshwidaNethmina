@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **web application development**
 
-- 📫 How to reach me **ashwidanethmina@gmail.com**
+- 📫 How to reach me **official.ashwida@gmail.com**
 
 - ⚡ Fun fact **I design 3D models in my free time. Check-out my CG Trader profile.** <a href="https://www.cgtrader.com/designers/ashwida" target="blank"><img align="center" src="https://assets.cgtrader.com/packs/media/images/cgtrader_RGB-d92c85b7.svg" alt="ashwida CG Trader" height="45" width="60" /></a>
 
